@@ -4,7 +4,7 @@
 - 🔭 Procuro estágio na área de desenvolvimento front-end
 - 🌱 Estudando Desenvolvimento de Software Multiplataforma
 - 👯 Busco elevar meu aprendizado para além do ensino da faculdade, colocando em prática os conceitos aprendidos.
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/elenpetri">
